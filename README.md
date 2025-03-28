@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hii 👋
+Hi! My name is Carlos, and I’m passionate about two things: **music** and **web development**. I love creating projects using HTML and CSS and continuously learning new skills to improve my craft.  
 
 <!--
 **EsoYelin/EsoYelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
